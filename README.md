@@ -26,8 +26,8 @@ It converts ballots into transactions and securely mines blocks out of them. The
 
 
 ## Contributors
-1.Shivam sharma<bl>
-2.Niharsh choudhary<bl>
-3.Ayush kr. singh<bl>
+1.Shivam sharma<br>
+2.Niharsh choudhary<br>
+3.Ayush kr. singh<br>
 
 #### --This is only a demonstration of the blockchain based voting system and it is entirely a prototype of the technology--
